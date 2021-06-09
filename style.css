@@ -518,6 +518,7 @@ footer li{
     footer p,a,ul,li{
         font-size: 0.9rem;
         text-align: center;
+        list-style: none;
     }
     footer{
         padding: 0px 10px;
